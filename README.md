@@ -88,10 +88,11 @@ User View: Visit http://localhost:8000
 Admin View: Visit http://localhost:8000/admin
 
 ```
----
-🔗 Live App: https://fynd-ai-intern-5moe.onrender.com
----
-🔗 Admin Dashboard: https://fynd-ai-intern-5moe.onrender.com/admin
+
+🔗 [Live Client App](https://fynd-ai-intern-5moe.onrender.com) 
+
+🔗 [Admin Dashboard](https://fynd-ai-intern-5moe.onrender.com/admin) 
+
 ---
 
 🔮 Future Roadmap
@@ -100,7 +101,7 @@ Admin View: Visit http://localhost:8000/admin
 [ ] Authentication: Adding JWT auth so customers can't see the Admin panel.
 
 [ ] Slack Integration: Pinging the "Kitchen Team" channel automatically when a 1-star review drops.
-
+---
 Built with ☕ and 🐍 by Pratik.
 
 Contact
