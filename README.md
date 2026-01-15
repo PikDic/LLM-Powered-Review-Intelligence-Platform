@@ -90,7 +90,7 @@ Admin View: Visit http://localhost:8000/admin
 ```
 ---
 🔗 Live App: https://fynd-ai-intern-5moe.onrender.com
-
+---
 🔗 Admin Dashboard: https://fynd-ai-intern-5moe.onrender.com/admin
 ---
 
