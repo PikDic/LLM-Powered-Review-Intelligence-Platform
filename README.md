@@ -96,12 +96,14 @@ Admin View: Visit http://localhost:8000/admin
 ---
 
 🔮 Future Roadmap
+
 [ ] Sentiment Trend Analysis: Visual graphs showing if customers are getting happier over time.
 
 [ ] Authentication: Adding JWT auth so customers can't see the Admin panel.
 
 [ ] Slack Integration: Pinging the "Kitchen Team" channel automatically when a 1-star review drops.
----
+
+
 Built with ☕ and 🐍 by Pratik.
 
 Contact
